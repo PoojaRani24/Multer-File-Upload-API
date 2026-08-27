@@ -1,4 +1,4 @@
-# 📁 File Upload using Multer
+# 📁 Multer File Upload API
 
 A simple Node.js project demonstrating **file uploads with Multer** — from receiving `multipart/form-data` to storing uploaded files on the server.
 
